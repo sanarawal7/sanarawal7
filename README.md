@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I’m Sanjana, an enthusiastic learner, currently diving deep into Flutter and just starting out with open source development. I'm looking forward to explore new technologies, build projects, and contribute to the open-source community.
+
+
+
 <!--
 **sanarawal7/sanarawal7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
